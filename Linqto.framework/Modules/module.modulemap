@@ -1,0 +1,6 @@
+framework module Linqto {
+  umbrella header "Linqto.h"
+
+  export *
+  module * { export * }
+}
